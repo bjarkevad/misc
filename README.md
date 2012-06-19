@@ -23,10 +23,13 @@ Index
   standard library containers. Use boost.assign instead of this!
 
 * eval [C++]
-** Recursive-descent parser for mathematical expressions
+  Recursive-descent parser for mathematical expressions
 
 * irc [Python]
   A class for parsing IRC lines, and a trivial IRC bot based on it.
+
+* lisp [Lisp]
+  Fragments of code to play around with Lisp; mostly recursive stuff.
 
 * streaming [C++]
   Stream the contents of standard library containers.
