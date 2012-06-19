@@ -18,6 +18,9 @@ available in case I ever wanted to use (or look at) them.
 Index
 -----
 
+* MersenneTwister [C++]
+  C++ wrapper around mt19937ar.c. Don't use it.
+
 * assign [C++]
   Use operator+= and operator, to assign elements to
   standard library containers. Use boost.assign instead of this!
