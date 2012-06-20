@@ -1,5 +1,5 @@
-misc
-====
+misc - Random old code
+======================
 
 Assorted bits and pieces of code. This repository contains several
 bits of code that aren't projects in their own right. The idea is
