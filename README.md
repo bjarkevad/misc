@@ -40,6 +40,9 @@ Index
 * sizeof.py [Python, C]
   Print the size of C types with command-line interface.
 
+* sound [C]
+  PCM audio stuff.
+
 * space.c [C]
   Determine distribution of "empty" space in a file (null bytes).
   Useful for inspecting partial downloads (?)
